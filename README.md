@@ -109,16 +109,4 @@ docker-compose up
 - Real-time Music Sync & Motivational Prompts
 - Facility heatmaps for spatial optimisation
 
----
 
-## 📃 Acknowledgements
-
-This project was developed for **ELEC5620 - Intelligent Agents**, University of Sydney.
-
-Team members contributed to design, development, integration, and testing.
-
----
-
-## 📌 License
-
-This repository is for educational purposes only.
