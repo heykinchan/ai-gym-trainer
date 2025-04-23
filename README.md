@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Smart AI Personal Trainer for Gym
 
-This repository contains the implementation of a smart AI-driven personal trainer system for a gym environment. Developed for the ELEC5620 project, this application integrates AI agent-based decision making, posture monitoring, real-time feedback, gym equipment usage analytics, and user-specific training support.
+This repository contains the implementation of a smart AI-driven personal trainer system for a gym environment. This application integrates AI agent-based decision making, posture monitoring, real-time feedback, gym equipment usage analytics, and user-specific training support.
 
 ---
 
