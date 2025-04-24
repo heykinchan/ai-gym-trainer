@@ -44,26 +44,6 @@ With the rise in popularity of fitness and smart gym technology, this system hel
 
 ---
 
-## 📁 Project Structure
-
-The system is composed of three main directories:
-
-```
-/ELEC5620-stage2-main/
-    ├── frontend/               # Web interface for trainees, trainers, owners
-    ├── backend/                # AI agent and APIs
-    ├── package-lock.json       # Dependencies
-    └── README.md               # This file
-/Smart-fitness-main/
-    └── smart_fitness/          # Supplementary or alternate implementation
-/5620part2-main/
-    ├── flask_backend/          # Python Flask backend
-    ├── react_frontend/         # React frontend
-    └── springboot_backend/     # Optional backend in Java Spring Boot
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
